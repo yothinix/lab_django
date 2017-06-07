@@ -19,5 +19,5 @@ class Todo(Timestamp):
             self.title,
             self.description,
             self.is_done
-        )
+            )
 
